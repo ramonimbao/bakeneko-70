@@ -517,7 +517,6 @@ Wire Wire Line
 Connection ~ 5000 4250
 Text GLabel 2950 4900 2    50   Input ~ 0
 COL3
-NoConn ~ 2950 6300
 $Comp
 L power:GND #PWR07
 U 1 1 5F253A4B
@@ -698,4 +697,17 @@ Text GLabel 850  5000 0    50   Input ~ 0
 D-
 NoConn ~ 6850 1500
 NoConn ~ 5850 1700
+Text GLabel 2950 6300 2    50   Input ~ 0
+FROW
+$Comp
+L Mechanical:MountingHole G1
+U 1 1 619548B4
+P 6350 7650
+F 0 "G1" H 6450 7696 50  0000 L CNN
+F 1 "Signature" H 6450 7605 50  0000 L CNN
+F 2 "Ramon:Signature" H 6350 7650 50  0001 C CNN
+F 3 "~" H 6350 7650 50  0001 C CNN
+	1    6350 7650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
