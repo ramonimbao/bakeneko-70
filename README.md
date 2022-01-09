@@ -1,8 +1,22 @@
+# Bakeneko 70 V1
+
+A 70% keyboard based on the Bakeneko 60 by kkatano.
+
+![Bakeneko 70](./image/bakeneko-70-aluminum-draft.png)
+
+## Notes
+
+Since this was based off of the Bakeneko 60, please take note that some files might still be named as bakeneko-60 or such. 
+
+## Layouts
+
+![Bakeneko 70 layouts](./image/keyboard-layout.png)
+
+---
+
 # Bakeneko 60 V3
 
 A simple 60% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini.
-
-![Bakeneko 60](./image/bakeneko-60-aluminum-draft.png)
 
 ## Features
 
@@ -11,10 +25,6 @@ A simple 60% keyboard for DIYers. This project is a special homage to TGR x Sing
 - USB-C with [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard)
 - QMK firmware and VIA ready
 - Compatible with common 60% plates
-
-## Layouts
-
-![Bakeneko 60 layouts](./image/keyboard-layout.png)
 
 ## Specs
 
